@@ -1,0 +1,25 @@
+theme = TokyoNight
+maximize = true
+font-family = PlemolJP35 Console NF
+background-opacity = 0.8
+macos-titlebar-style = tabs
+background-blur = true
+adjust-cell-height = 2
+font-thicken = true
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+l=goto_split:right
+window-inherit-working-directory = true
+shell-integration = detect
+
+quick-terminal-position = "right"
+quick-terminal-screen = "main"
+quick-terminal-animation-duration = 0.3
+keybind = "cmd+shift+t=toggle_quick_terminal"
+
+clipboard-write = allow
+
+clipboard-trim-trailing-spaces = true
+macos-titlebar-style = tabs
+window-new-tab-position = current
+
+keybind = super+f=text_search
