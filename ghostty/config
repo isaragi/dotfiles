@@ -21,5 +21,3 @@ clipboard-write = allow
 clipboard-trim-trailing-spaces = true
 macos-titlebar-style = tabs
 window-new-tab-position = current
-
-keybind = super+f=text_search
